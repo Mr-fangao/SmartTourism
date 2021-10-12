@@ -1,0 +1,315 @@
+{
+  "status": 0,
+  "message": "",
+  "data": [{
+    "DealCount": [{
+        "width": "46px",
+        "data": "2",
+        "color": "rgb(26, 150, 65)"
+      },
+      {
+        "width": "46px",
+        "data": "3",
+        "color": "rgb(106, 188, 88)"
+      },
+      {
+        "width": "46px",
+        "data": "4",
+        "color": "rgb(179, 222, 118)"
+      },
+      {
+        "width": "46px",
+        "data": "6",
+        "color": "rgb(230, 244, 167)"
+      },
+      {
+        "width": "46px",
+        "data": "9",
+        "color": "rgb(254, 232, 165)"
+      },
+      {
+        "width": "46px",
+        "data": "14",
+        "color": "rgb(253, 186, 111)"
+      },
+      {
+        "width": "46px",
+        "data": "28",
+        "color": "rgb(237, 110, 67)"
+      },
+      {
+        "width": "46px",
+        "data": "380",
+        "color": "rgb(215, 25, 28)"
+      },
+      {
+        "width": "46px",
+        "data": "套",
+        "color": ""
+      }
+    ],
+    "DealPrice": [{
+        "width": "34px",
+        "data": "0.6",
+        "color": "rgb(253,251,194)"
+      },
+      {
+        "width": "34px",
+        "data": "0.85",
+        "color": "rgb(255,214,154)"
+      },
+      {
+        "width": "34px",
+        "data": "1",
+        "color": "rgb(252,170,120)"
+      },
+      {
+        "width": "34px",
+        "data": "1.5",
+        "color": "rgb(244,136,100)"
+      },
+      {
+        "width": "34px",
+        "data": "2",
+        "color": "rgb(239,95,105)"
+      },
+      {
+        "width": "34px",
+        "data": "2.5",
+        "color": "rgb(216,64,111)"
+      },
+      {
+        "width": "34px",
+        "data": "3",
+        "color": "rgb(174,58,119)"
+      },
+      {
+        "width": "34px",
+        "data": "3.5",
+        "color": "rgb(141,40,134)"
+      },
+      {
+        "width": "34px",
+        "data": "4",
+        "color": "rgb(107,30,126)"
+      },
+      {
+        "width": "34px",
+        "data": "4.5",
+        "color": "rgb(76,20,109)"
+      },
+      {
+        "width": "34px",
+        "data": "5.5",
+        "color": "rgb(32,19,72)"
+      },
+      {
+        "width": "70px",
+        "data": "万元/平方米",
+        "color": ""
+      }
+    ],
+    "Occupancy": [{
+        "width": "84px",
+        "data": "0.2",
+        "color": "rgb(14,155,77)"
+      },
+      {
+        "width": "84px",
+        "data": "0.4",
+        "color": "rgb(159,213,102)"
+      },
+      {
+        "width": "84px",
+        "data": "0.6",
+        "color": "rgb(255,255,193)"
+      },
+      {
+        "width": "84px",
+        "data": "0.8",
+        "color": "rgb(255,149,93)"
+      },
+      {
+        "width": "84px",
+        "data": "0.9",
+        "color": "rgb(206,49,34)"
+      }
+    ],
+    "FinanceAnalysis": [{
+        "width": "52px",
+        "data": "871",
+        "color": "rgb(69,62,104)"
+      },
+      {
+        "width": "52px",
+        "data": "1742",
+        "color": "rgb(55,119,129)"
+      },
+      {
+        "width": "52px",
+        "data": "2612",
+        "color": "rgb(115,157,117)"
+      },
+      {
+        "width": "52px",
+        "data": "3483",
+        "color": "rgb(170,176,130)"
+      },
+      {
+        "width": "52px",
+        "data": "4353",
+        "color": "rgb(190,177,133)"
+      },
+      {
+        "width": "52px",
+        "data": "5223",
+        "color": "rgb(178,122,75)"
+      },
+      {
+        "width": "52px",
+        "data": "6094",
+        "color": "rgb(163,62,54)"
+      }, {
+        "width": "52px",
+        "data": "6964",
+        "color": "rgb(115,5,50)"
+      }
+    ],
+    "BuildProcess": [{
+        "width": "14px",
+        "data": "1992",
+        "color": "rgb(158, 1, 66)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(179, 24, 71)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(200, 48, 76)"
+      },
+      {
+        "width": "14px",
+        "data": "1995",
+        "color": "rgb(218, 69, 77)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(230, 87, 73)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(242, 105, 68)"
+      },
+      {
+        "width": "14px",
+        "data": "1998",
+        "color": "rgb(247, 129, 76)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(250, 154, 88)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(253, 178, 100)"
+      },
+      {
+        "width": "14px",
+        "data": "2001",
+        "color": "rgb(253, 197, 116)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(254, 216, 133)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(254, 231, 151)"
+      },
+      {
+        "width": "14px",
+        "data": "2004",
+        "color": "rgb(255, 243, 171)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(255, 255, 191)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(245, 251, 176)"
+      },
+      {
+        "width": "14px",
+        "data": "2007",
+        "color": "rgb(236, 247, 161)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(221, 241, 154)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(198, 232, 158)"
+      },
+      {
+        "width": "14px",
+        "data": "2010",
+        "color": "rgb(176, 223, 163)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(150, 213, 164)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(123, 202, 165)"
+      },
+      {
+        "width": "14px",
+        "data": "2013",
+        "color": "rgb(98, 190, 167)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(78, 167, 176)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(58, 145, 185)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(60, 123, 183)"
+      },
+      {
+        "width": "14px",
+        "data": "",
+        "color": "rgb(77, 101, 172)"
+      },
+      {
+        "width": "14px",
+        "data": "2018",
+        "color": "rgb(94, 79, 162)"
+      }
+    ]
+  }]
+}

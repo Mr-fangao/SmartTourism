@@ -1,0 +1,69 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        { "title": "办件前五的大部门", "chartType": "column", "xUnit": "", " yAxis": [""], "CategoryName": "", "xAxis": ["人社", "城管", "规划", "发改", "民政"], "data": ["310", "146", "54", "46", "33"], "legend": ["value"] }, {
+            "title": "近12月办件量趋势",
+            "chartType": "column",
+            "xUnit": "件",
+            " yAxis": [""],
+            "CategoryName": "",
+            "xAxis": ["18-09", "18-10", "18-11", "18-12", "19-01", "19-02", "19-03", "19-04", "19-05", "19-06", "19-07", "19-08"],
+            "data": ["272", "133", "182", "433", "3606", "3570", "4554", "3468", "3323", "3753", "3538", "3009"],
+            "legend": ["value"]
+        }, {
+            "title": "提前办结率",
+            "chartType": "pie",
+            "xUnit": "",
+            "CategoryName": "",
+            "xAxis": ["已办结", "未办结"],
+            "data": [{ "name": "已办结", "value": "174720" }, { "name": "未办结", "value": "0" }]
+        },
+        {
+            "title": "超时办结率",
+            "chartType": "pie",
+            "xUnit": "",
+            "CategoryName": "",
+            "xAxis": ["已办结", "未办结"],
+            "data": [{ "name": "已办结", "value": "220" }, { "name": "未办结", "value": "1420" }]
+        }, {
+            "title": "事项清单1",
+            "chartType": "pie",
+            "xUnit": "",
+            "CategoryName": "",
+            "xAxis": ["个人办事", "法人办事"],
+            "data": [{ "name": "个人办事", "value": "238" }, { "name": "法人办事", "value": "214" }]
+        }, {
+            "title": "事项清单2",
+            "chartType": "pie",
+            "xUnit": "",
+            "CategoryName": "",
+            "xAxis": ["承诺件", "即办件"],
+            "data": [
+                { "name": "承诺件", "value": "226" }, { "name": "即办件", "value": "226" }
+            ]
+        }, { "list": [{ "name": "事项总量", "value": "452" }, { "name": "办理平均用时", "value": "0:35:15" }] }, {
+            "list": [{ "name": "承诺件", "value": "226", "percent": "50%", "unit": "件" }, {
+                "name": "即办件",
+                "value": "226",
+                "percent": "50%",
+                "unit": "件"
+            }]
+        }, {
+            "list": [{ "name": "个人办事", "value": "238", "percent": "53%", "unit": "件" }, {
+                "name": "法人办事",
+                "value": "226",
+                "percent": "47%",
+                "unit": "件"
+            }]
+        }, {
+            "list": [
+                { "type": "录用、续用、退工登记备案", "value": "40414", "percent": "100", "unit": "件" },
+                { "type": "社会保险费缴费通知单打印", "value": "3467", "percent": "19", "unit": "件" },
+                { "type": "小额医疗保险费用报销", "value": "2231", "percent": "13", "unit": "件" },
+                { "type": "社会保险参保证明（含医保证明）", "value": "1423", "percent": "7", "unit": "件" },
+                { "type": "失业金申领", "value": "1238", "percent": "6", "unit": "件" }
+            ]
+        }
+    ]
+}

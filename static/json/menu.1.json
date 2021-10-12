@@ -1,0 +1,106 @@
+{
+  "status": 0,
+  "message": "",
+  "data": [{
+    "leftMenu": [{
+        "key": "menu1",
+        "name": "智慧精准",
+        "children": [{
+            "key": "qysyzt",
+            "name": "全要素一张图",
+            "url": "/home/developing"
+          },
+          {
+            "key": "czyxybp",
+            "name": "城镇运行仪表盘",
+            "url": "/home/developing"
+          }
+        ]
+      },
+      {
+        "key": "menu2",
+        "name": "党建引领",
+        "children": [{
+            "key": "djqk",
+            "name": "党建情况",
+            "url": "/home/djqk"
+          },
+          {
+            "key": "djfb",
+            "name": "党建分布",
+            "url": "/home/djfb"
+          }
+        ]
+      }, {
+        "key": "menu3",
+        "name": "行政审批",
+        "children": [{
+            "key": "xzspbj",
+            "name": "行政审批办件",
+            "url": "/home/developing"
+          },
+          {
+            "key": "bmfwzx",
+            "name": "便民服务中心",
+            "url": "/home/developing"
+          }
+        ]
+      }, {
+        "key": "menu4",
+        "name": "高效联动",
+        "children": [{
+            "key": "wggl",
+            "name": "网格管理",
+            "url": "/home/wggl"
+          },
+          {
+            "key": "zxzz",
+            "name": "专项整治",
+            "url": "/home/zxzz"
+          }
+        ]
+      }
+    ],
+    "rightMenu": [{
+        "key": "menu5",
+        "name": "公共管理",
+        "children": [{
+          "key": "gggl",
+          "name": "公共管理",
+          "url": "/home/publicManage"
+        }]
+      },
+      {
+        "key": "menu6",
+        "name": "综合执法",
+        "children": [{
+            "key": "zfdsj",
+            "name": "执法大数据",
+            "url": "/home/developing"
+          }, {
+            "key": "ssjcc",
+            "name": "双随机抽查",
+            "url": "/home/developing"
+          }
+
+        ]
+      }, {
+        "key": "menu7",
+        "name": "经济运行",
+        "children": [{
+          "key": "jjyx",
+          "name": "经济运行",
+          "url": "/home/economicOperation"
+        }]
+      }, {
+        "key": "menu8",
+        "name": "重点项目",
+        "children": [{
+          "key": "zdxm",
+          "name": "重点项目",
+          "url": "/home/zdxmqk"
+        }]
+      }
+    ]
+  }]
+}

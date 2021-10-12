@@ -1,0 +1,99 @@
+{
+  "status": "1",
+  "message": "",
+  "data": [{
+    "list": [{
+      "dataFirst": "党支部数量",
+      "dataSec": 127,
+      "dataThird": "家"
+    }, {
+      "dataFirst": "党员数量",
+      "dataSec": 1897,
+      "dataThird": "人",
+      "color": "#8c2727"
+    }]
+  }, {
+    "title": "房屋成交量",
+    "chartType": "line",
+    "xUnit": "单位：人",
+    "CategoryName": "党员数量",
+    "xAxis": ["2013年", "2014年", "2015年", "2016年", "2017年", "2018年", "2019年"],
+    "data": [{
+      "name": "2013年",
+      "value": "67"
+    }, {
+      "name": "2014年",
+      "value": "84"
+    }, {
+      "name": "2015年",
+      "value": "94"
+    }, {
+      "name": "2016年",
+      "value": "102"
+    }, {
+      "name": "2017年",
+      "value": "108"
+    }, {
+      "name": "2018年",
+      "value": "101"
+    }, {
+      "name": "2019年",
+      "value": "112"
+    }]
+  }, {
+    "title": "小区",
+    "chartType": "column",
+    "xUnit": "单位：人",
+    "CategoryName": "年龄分布",
+    "xAxis": ["研究生及以上", "本科", "大专", "高中", "初中", "小学及以下"],
+    "data": [{
+      "value": "60",
+      "name": "研究生及以上"
+    }, {
+      "value": "429",
+      "name": "本科"
+    }, {
+      "value": "243",
+      "name": "大专"
+    }, {
+      "value": "330",
+      "name": "高中"
+    }, {
+      "value": "460",
+      "name": "初中"
+    }, {
+      "value": "375",
+      "name": "初中及以下"
+    }]
+  }, {
+    "list": [{
+      "name": "网络平台",
+      "url": "static/images/dsj/dj1.png"
+    }, {
+      "name": "流动平台",
+      "url": "static/images/dsj/dj2.png"
+    }, {
+      "name": "实体平台",
+      "url": "static/images/dsj/dj3.png"
+    }]
+  }, {
+    "list": [{
+      "name": "打造“老先锋党建引领服务团”为“书记项目”",
+      "isNew": true,
+      "url": "http://www.baidu.com"
+    }, {
+      "name": "打造“老先锋党建引领服务团”为“书记项目”",
+      "isNew": true,
+      "url": "http://www.baidu.com"
+    }, {
+      "name": "打造“老先锋党建引领服务团”为“书记项目”",
+      "url": "http://www.baidu.com"
+    }, {
+      "name": "“三个平台”擦亮品牌,渭塘镇着力构建“时时......",
+      "url": "http://www.baidu.com"
+    }, {
+      "name": "渭塘发布“红色泾渭线”党建品牌",
+      "url": "http://www.baidu.com"
+    }]
+  }]
+}

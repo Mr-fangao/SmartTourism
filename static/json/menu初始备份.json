@@ -1,0 +1,64 @@
+{
+  "status": 0,
+  "message": "",
+  "data": [{
+    "leftMenu": [  {
+        "key": "menu5",
+        "name": "基本概况",
+        "url": "/home/jbgk"
+      }, {
+        "key": "menu6",
+        "name": "党的建设",
+        "url": "/home/djyl"
+      },{
+        "key": "menu9",
+        "name": "指挥调度",
+        "url": "/home/zhdd"
+      },{
+        "key": "menu7",
+        "name": "行政审批",
+        "url": "/home/xzsp"
+      },  {
+        "key": "menu4",
+        "name": "网格管理",
+        "url": "/home/wggl"
+      }, {
+        "key": "menu8",
+        "name": "综合执法",
+        "url": "/home/zhzf"
+      }, {
+        "key": "menu13",
+        "name": "人居环境",
+        "url": "/home/hwgl"
+      }, {
+        "key": "menu12",
+        "name": "养老服务",
+        "url": "/home/ylfw"
+      }, {
+        "key": "menu11",
+        "name": "产业科创",
+        "url": "/home/rckc"
+      } ,  {
+        "key": "menu10",
+        "name": "经济发展",
+        "url": "/home/jjfz"
+      }
+    ],
+    "rightMenu": [{
+        "key": "menu14",
+        "name": "高质量发展",
+        "url": "/home/developing"
+      },
+      {
+        "key": "menu15",
+        "name": "党建引领",
+        "url": "/home/djyl"
+      },
+      {
+        "key": "menu16",
+        "name": "企业专题",
+        "url": "/home/qyzt"
+      }
+    ]
+  }]
+}

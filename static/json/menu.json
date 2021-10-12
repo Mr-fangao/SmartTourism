@@ -1,0 +1,60 @@
+{
+	"status": 0,
+	"message": "",
+	"data": [
+		{
+			"leftMenu": [
+				{
+					"key": "menu6",
+					"name": "党建引领",
+					"url": "/home/djyl",
+					"visable": false
+				},
+				{
+					"key": "menu9",
+					"name": "指挥调度",
+					"url": "/home/zhdd",
+					"visable": false
+				},
+				{
+					"key": "menu7",
+					"name": "审批服务",
+					"url": "/home/xzsp",
+					"visable": false
+				},
+				{
+					"key": "menu8",
+					"name": "综合执法",
+					"url": "/home/zhzf",
+					"visable": false
+				}
+			],
+			"rightMenu": [
+				{
+					"key": "menu4",
+					"name": "网格管理",
+					"url": "/home/wggl",
+					"visable": false
+				},
+				{
+					"key": "menu10",
+					"name": "经济发展",
+					"url": "/home/jjfz",
+					"visable": false
+				},
+				{
+					"key": "menu11",
+					"name": "住枫桥",
+					"url": "/home/zfq",
+					"visable": false
+				},
+				{
+					"key": "menu12",
+					"name": "智慧监管",
+					"url": "/home/znjg",
+					"visable": false
+				}
+			]
+		}
+	]
+}

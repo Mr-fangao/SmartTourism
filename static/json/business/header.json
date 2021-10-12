@@ -1,0 +1,186 @@
+{
+  "status": 0,
+  "message": "",
+  "data": [{
+    "PopulationAnalysis": [{
+        "title": "产权人总数",
+        "dataFirst": "606,",
+        "dataSec": "524",
+        "dataThird": "人"
+      },
+      {
+        "title": "其中苏州人",
+        "dataFirst": "278,",
+        "dataSec": "061",
+        "dataThird": "人"
+      },
+      {
+        "title": "其中非苏州人",
+        "dataFirst": "154,",
+        "dataSec": "830",
+        "dataThird": "人"
+      },
+      {
+        "title": "其中外省人",
+        "dataFirst": "390,",
+        "dataSec": "786",
+        "dataThird": "户"
+      }
+    ],
+    "DealCount": [{
+        "title": "住房总量",
+        "dataFirst": "433,",
+        "dataSec": "583",
+        "dataThird": "套"
+      },
+      {
+        "title": "小区数量",
+        "dataFirst": "495",
+        "dataSec": "",
+        "dataThird": "个"
+      },
+      {
+        "title": "新建商品房存量",
+        "dataFirst": "71,",
+        "dataSec": "982",
+        "dataThird": "套"
+      },
+      {
+        "title": "当年房产销售面积",
+        "dataFirst": "60.",
+        "dataSec": "70",
+        "dataThird": "万平方米"
+      },
+      {
+        "title": "当年土地出让面积",
+        "dataFirst": "107.",
+        "dataSec": "87 ",
+        "dataThird": "公顷"
+      },
+      {
+        "title": "累计土地出让面积",
+        "dataFirst": "11,922.",
+        "dataSec": "56",
+        "dataThird": "公顷"
+      }
+    ],
+    "DealPrice": [{
+        "title": "住房总量",
+        "dataFirst": "433,",
+        "dataSec": "583",
+        "dataThird": "套"
+      },
+      {
+        "title": "小区数量",
+        "dataFirst": "495",
+        "dataSec": "",
+        "dataThird": "个"
+      },
+      {
+        "title": "新建商品房存量",
+        "dataFirst": "71,",
+        "dataSec": "982",
+        "dataThird": "套"
+      },
+      {
+        "title": "当年房产销售面积",
+        "dataFirst": "60.",
+        "dataSec": "70",
+        "dataThird": "万平方米"
+      },
+      {
+        "title": "当年土地出让面积",
+        "dataFirst": "107.",
+        "dataSec": "87 ",
+        "dataThird": "公顷"
+      },
+      {
+        "title": "累计土地出让面积",
+        "dataFirst": "11,922.",
+        "dataSec": "56",
+        "dataThird": "公顷"
+      }
+    ],
+    "Occupancy": [{
+        "title": "平均入住率",
+        "dataFirst": "60",
+        "dataSec": "",
+        "dataThird": "%"
+      },
+      {
+        "title": "总计入住户数",
+        "dataFirst": "732",
+        "dataSec": "",
+        "dataThird": "户"
+      },
+      {
+        "title": "最高入住率小区",
+        "dataFirst": "",
+        "dataSec": "",
+        "dataThird": "中央景城"
+      },
+      {
+        "title": "最低入住率小区",
+        "dataFirst": "",
+        "dataSec": "",
+        "dataThird": "雅戈尔太阳城"
+      }
+    ],
+    "FinanceAnalysis": [{
+        "title": "住宅类买方抵押贷款",
+        "dataFirst": "4,",
+        "dataSec": "849",
+        "dataThird": "套"
+      },
+      {
+        "title": "买方抵押贷款平均抵押率",
+        "dataFirst": "75",
+        "dataSec": "",
+        "dataThird": "%"
+      },
+      {
+        "title": "整个园区住宅套数的抵押率",
+        "dataFirst": "87",
+        "dataSec": "",
+        "dataThird": "%"
+      },
+      {
+        "title": "住宅类总抵押贷款金额",
+        "dataFirst": "96.",
+        "dataSec": "23",
+        "dataThird": "亿元"
+      }
+    ],
+    "BuildProcess": [{
+        "title": "平均房龄",
+        "dataFirst": "9.",
+        "dataSec": "76",
+        "dataThird": "年"
+      },
+      {
+        "title": "最大房龄",
+        "dataFirst": "26",
+        "dataSec": "",
+        "dataThird": "年"
+      },
+      {
+        "title": "当年建房数量",
+        "dataFirst": "308",
+        "dataSec": "",
+        "dataThird": "栋"
+      },
+      {
+        "title": "最早建成年代",
+        "dataFirst": "1,",
+        "dataSec": "992",
+        "dataThird": "年"
+      },
+      {
+        "title": "最晚建成年代",
+        "dataFirst": "2,",
+        "dataSec": "018",
+        "dataThird": "年"
+      }
+    ]
+  }]
+}

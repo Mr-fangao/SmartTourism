@@ -1,0 +1,68 @@
+{
+    "status": 1,
+    "message": "",
+    "data": [
+        {
+            "title": "今日实况",
+            "subtitle": "",
+            "list": [
+                {
+                    "name": "在线巡查员",
+                    "value": "8"
+                },
+                {
+                    "name": "今日工单量",
+                    "value": "16"
+                },
+                {
+                    "name": "sqljcj",
+                    "value": "2431"
+                },
+                {
+                    "name": "sqljgd",
+                    "value": "1001"
+                },
+                {
+                    "name": "sqbygd",
+                    "value": "378"
+                },
+                {
+                    "name": "sqjrgd",
+                    "value": "16"
+                },
+                {
+                    "name": "smljcj",
+                    "value": "2344"
+                },
+                {
+                    "name": "smljgd",
+                    "value": "479"
+                },
+                {
+                    "name": "smbygd",
+                    "value": "0"
+                },
+                {
+                    "name": "smjrgd",
+                    "value": "0"
+                },
+                {
+                    "name": "qyljcj",
+                    "value": "1000"
+                },
+                {
+                    "name": "qyljgd",
+                    "value": "885"
+                },
+                {
+                    "name": "qybygd",
+                    "value": "0"
+                },
+                {
+                    "name": "qyjrgd",
+                    "value": "0"
+                }
+            ]
+        }
+    ]
+}

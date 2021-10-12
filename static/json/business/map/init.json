@@ -1,0 +1,118 @@
+{
+  "version": 8,
+  "name": "mapBox_dsj",
+  "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
+  "sources": {
+    "Sriver_S": {
+      "type": "vector",
+      "scheme": "tms",
+      "tiles": [
+        "http://192.168.84.131:8080/geoserver/gwc/service/tms/1.0.0/sipmap:Sriver_S@EPSG:900913@pbf/{z}/{x}/{y}.pbf"
+      ]
+    },
+    "Droad_C": {
+      "type": "vector",
+      "scheme": "tms",
+      "tiles": [
+        "http://192.168.84.131:8080/geoserver/gwc/service/tms/1.0.0/sipmap:Droad_C@EPSG:900913@pbf/{z}/{x}/{y}.pbf"
+      ]
+    },
+    "Droad_Z": {
+      "type": "vector",
+      "scheme": "tms",
+      "tiles": [
+        "http://192.168.84.131:8080/geoserver/gwc/service/tms/1.0.0/sipmap:Droad_Z@EPSG:900913@pbf/{z}/{x}/{y}.pbf"
+      ]
+    },
+    "Xdomain_S": {
+      "type": "vector",
+      "scheme": "tms",
+      "tiles": [
+        "http://192.168.84.131:8080/geoserver/gwc/service/tms/1.0.0/sipmap:Xdomain_S@EPSG:900913@pbf/{z}/{x}/{y}.pbf"
+      ]
+    },
+    "Droad_Zh": {
+      "type": "vector",
+      "scheme": "tms",
+      "tiles": [
+        "http://192.168.84.131:8080/geoserver/gwc/service/tms/1.0.0/sipmap:Droad_Zh@EPSG:900913@pbf/{z}/{x}/{y}.pbf"
+      ]
+    },
+    "BDCDY_Z_CGS84": {
+      "type": "vector",
+      "scheme": "tms",
+      "tiles": [
+        "http://192.168.77.4:8090/geoserver/gwc/service/tms/1.0.0/map:BDCDY_Z_CGS84@EPSG:900913@pbf/{z}/{x}/{y}.pbf"
+      ]
+    },
+    "PopulationAnalysis": {
+      "type": "geojson",
+      "data": "static/json/4326cmplx.geojson"
+    },
+    "DealCount": {
+      "type": "geojson",
+      "data": "static/json/4326cmplx.geojson"
+    },
+    "FinanceAnalysis": {
+      "type": "geojson",
+      "data": "static/json/BDCDY_Z_CGS84.geojson"
+    },
+    "BuildProcess": {
+      "type": "geojson",
+      "data": "static/json/4326cmplx.geojson"
+    }
+  },
+  "layers": [{
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#000000"
+      },
+      "interactive": true
+    },
+    {
+      "id": "Xdomain_S",
+      "source": "Xdomain_S",
+      "source-layer": "Xdomain_S",
+      "type": "fill",
+      "layout": {},
+      "paint": {
+        "fill-color": "#091220"
+      }
+    },
+    {
+      "id": "Sriver_S",
+      "source": "Sriver_S",
+      "source-layer": "Sriver_S",
+      "type": "fill",
+      "layout": {},
+      "paint": {
+        "fill-color": "#12223d"
+      }
+    },
+    {
+      "id": "Droad_Zh",
+      "source": "Droad_Zh",
+      "source-layer": "Droad_Zh",
+      "type": "fill",
+      "layout": {},
+      "paint": {
+        "fill-color": "#123c52"
+      }
+    },
+    {
+      "id": "Droad_Zh-symbol",
+      "source": "Droad_Zh",
+      "source-layer": "Droad_Zh",
+      "type": "symbol",
+      "layout": {
+        "text-field": "{MC}",
+        "text-size": 13
+      },
+      "paint": {
+        "text-color": "#2dc4bb"
+      },
+      "interactive": true
+    }
+  ]
+}

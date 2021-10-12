@@ -1,0 +1,159 @@
+{
+  "status": "1",
+  "message": "",
+  "data": [{
+      "list": [{
+        "dataFirst": "整改中",
+        "dataSec": 35.76,
+        "dataThird": "%",
+        "decimals":2
+      }, {
+        "dataFirst": "整改后",
+        "dataSec": 64.24,
+        "dataThird": "%",
+        "color": "#8c2727",
+        "decimals": 2
+      }]
+    },
+    {
+      "list": [{
+        "dataFirst": "事件总量",
+        "dataSec": 3524,
+        "dataThird": "件",
+        "decimals": 0
+      }, {
+        "dataFirst": "结案率",
+        "dataSec": 99.91,
+        "dataThird": "%",
+        "color": "#8c2727",
+        "decimals": 2
+      }]
+    },
+    {
+      "title": "事件列表",
+      "chartType": "grid",
+      "xUnit": "",
+      "CategoryName": "",
+      "cells": ["企业名称", "行业类别", "目前进度"],
+      "rows": [
+        ["苏州德州晟贸易有限公司", "木材加工", "已完成"],
+        ["苏州陆鼎机械设备有限公司", "五金加工", "已完成"],
+        ["苏州赛孚拓消防设备制造有限公司", "其他制造类", "正在整改"],
+        ["太仓中诚板材钢结构有限公司", "喷漆", "已完成"],
+        ["太仓鑫宇电子", "木材加工", "已完成"],
+        ["金宫力瓷砖店", "石材加工", "已完成"],
+        ["五金模具", "五金磨具加工", "已完成"],
+        ["顾健开毛厂", "开毛", "已完成"],
+        ["陈泾桥开毛厂", "开毛", "已完成"]
+      ]
+    },
+    {
+      "list": [{
+        "dataFirst": "占地面积",
+        "dataSec": 132,
+        "dataThird": "平方公里",
+        "color": "#3366cc",
+        "decimals": 0
+      }, {
+        "dataFirst": "户籍人口",
+        "dataSec": 8.22,
+        "dataThird": "万人",
+        "color": "#672d98",
+        "decimals": 2
+      }, {
+        "dataFirst": "常住人口",
+        "dataSec": 14.47,
+        "dataThird": "万人",
+        "color": "#ffc107",
+        "decimals": 2
+      }]
+    },
+    {
+      "list": [{
+        "dataFirst": "巡查点",
+        "dataSec": 357,
+        "dataThird": "个",
+        "decimals": 0
+      }, {
+        "dataFirst": "巡查类别",
+        "dataSec": 9,
+        "dataThird": "种",
+        "color": "#8c2727",
+        "decimals": 0
+      }]
+    },
+    {
+      "title": "巡查点类型分布",
+      "chartType": "pie",
+      "xUnit": "单位：个",
+      "CategoryName": "",
+      "xAxis": ["散乱污”企业（作坊）", "安全隐患", "河道整治", "群租房", "人棚混居", "三合一场所", "违章搭建", "消防隐患", "宗教场所"],
+      "data": [{
+        "value": "242",
+        "name": "散乱污”企业（作坊）"
+      }, {
+        "value": "1",
+        "name": "安全隐患"
+      }, {
+        "value": "30",
+        "name": "河道整治"
+      }, {
+        "value": "2",
+        "name": "群租房"
+      }, {
+        "value": "4",
+        "name": "人棚混居"
+      }, {
+        "value": "2",
+        "name": "三合一场所"
+      }, {
+        "value": "73",
+        "name": "违章搭建"
+      }, {
+        "value": "2",
+        "name": "消防隐患"
+      }, {
+        "value": "1",
+        "name": "宗教场所"
+      }]
+    },
+    {
+      "title": "",
+      "chartType": "column",
+      "xUnit": "单位：个",
+      "CategoryName": "",
+      "xAxis": ["岳镇村", "中荷村", "渠泾村", "半泾村", "泥桥村", "涂松村", "松南村", "庄西村", "泰西村", "凡山村"],
+      "data": [{
+        "name": "岳镇村",
+        "value": "196"
+      }, {
+        "name": "中荷村",
+        "value": "178"
+      }, {
+        "name": "渠泾村",
+        "value": "174"
+      }, {
+        "name": "半泾村",
+        "value": "139"
+      }, {
+        "name": "泥桥村",
+        "value": "136"
+      }, {
+        "name": "涂松村",
+        "value": "129"
+      }, {
+        "name": "松南村",
+        "value": "128"
+      }, {
+        "name": "庄西村",
+        "value": "104"
+      }, {
+        "name": "泰西村",
+        "value": "84"
+      }, {
+        "name": "凡山村",
+        "value": "82"
+      }]
+    }
+  ]
+}

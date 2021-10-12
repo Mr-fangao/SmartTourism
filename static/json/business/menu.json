@@ -1,0 +1,35 @@
+{
+  "status": 0,
+  "message": "",
+  "data": [{
+      "name": "人口区域",
+      "val": "PopulationAnalysis",
+      "imgSrc": "static/images/menu/menu1.png"
+    },
+    {
+      "name": "登记数量",
+      "val": "DealCount",
+      "imgSrc": "static/images/menu/menu2.png"
+    },
+    {
+      "name": "价格分析",
+      "val": "DealPrice",
+      "imgSrc": "static/images/menu/menu3.png"
+    },
+    {
+      "name": "入住分析",
+      "val": "Occupancy",
+      "imgSrc": "static/images/menu/menu4.png"
+    },
+    {
+      "name": "融资分析",
+      "val": "FinanceAnalysis",
+      "imgSrc": "static/images/menu/menu5.png"
+    },
+    {
+      "name": "房龄分析",
+      "val": "BuildProcess",
+      "imgSrc": "static/images/menu/menu6.png"
+    }
+  ]
+}

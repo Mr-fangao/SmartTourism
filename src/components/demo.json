@@ -1,0 +1,53 @@
+{
+    "info": "MapControlsLayersConfig",
+    "version": 8,
+    "name": "MapControlsLayersConfig",
+    "MapControlsLayers": [
+        {
+            "id": "55C2A728-A675-4DEE-9E81-7F4878B5B771F",
+            "key": "5116ayers",
+            "name": "林枫苑",
+            "select": false,
+            "expand": false,
+            "childBtn": [
+                {
+                    "id": "66C2A728-A675-4DEE-9E81-7F4878B5B771F",
+                    "key": "5117ayers",
+                    "name": "7栋3单元门禁",
+                    "select": false,
+                    "expand": false
+                },
+                {
+                    "id": "77C2A728-A675-4DEE-9E81-7F4878B5B771F",
+                    "key": "5118ayers",
+                    "name": "19栋1单元门禁",
+                    "select": false,
+                    "expand": false
+                },
+                {
+                    "id": "8861E93F-EC96-4AA7-BA89-805ED393D0490",
+                    "key": "5183ayers",
+                    "name": "19栋2单元门禁",
+                    "select": false,
+                    "expand": false
+                }
+            ]
+        },
+        {
+            "id": "55C2A728-A675-4DEE-9E81-7F4855571F",
+            "key": "5117ayers",
+            "name": "东浜新苑",
+            "select": false,
+            "expand": false,
+            "childBtn": [
+                {
+                    "id": "66C2A728-A675-4DEE-9E81-7F487456B771F",
+                    "key": "5117ayers",
+                    "name": "拆旧区",
+                    "select": false,
+                    "expand": false
+                }
+            ]
+        }
+    ]
+}
